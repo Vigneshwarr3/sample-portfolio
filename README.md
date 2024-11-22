@@ -1,9 +1,20 @@
-# Vigneshwar R
-- Aspiring Data Scientist
-- Currently pursuing Masters in applied data science at [IU Indy](https://luddy.indianapolis.iu.edu/degrees/masters/data-science/index.html)
+# Hi there, I'm Vigneshwar 👋
 
-#### Technical Skills: Python, SQL, Snowflake
+## About Me
 
-## Education					       		
-- M.S., Data Science	| Indiana University Indnanapolis (_Aug 2026_)	 			        		
-- B.E., Mechanical Engg. | Anna University (_Sep 2020_)
+- 🔭 Currently a graduate student 🎓 at Indiana University Indianapolis 🏛️ majoring in Applied Data Science.
+- 🌱 Pursuing a **Data Science & Machine Learning Course** at **Scaler**.
+- 🎓 Previously a Data Analyst with an work experience of nearly 4 years.
+
+## Skills
+
+- **Programming Languages:** Python, R, SQL
+- **Frameworks and Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scipy
+- **Tools and Platforms:** Jupyter, Tableau
+- **Other Skills:** Data Visualization, Statistical Analysis
+
+
+## Connect with Me
+
+- [Website](https://vigneshwarr.com/)
+- [LinkedIn](https://www.linkedin.com/in/vigneshwar-r-994b86162/)
